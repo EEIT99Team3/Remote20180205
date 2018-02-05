@@ -8,7 +8,7 @@
 
 <link rel="stylesheet" type="text/css" href="" />
 
-<title>Login Page</title>
+<title>Login page</title>
 </head>
 <body>
 
