@@ -8,7 +8,8 @@
 
 <link rel="stylesheet" type="text/css" href="" />
 
-<title>Product</title>
+
+<title>Product(git Lab test)</title>
 <script type="text/javascript">
 function clearForm() {
 	var inputs = document.getElementsByTagName("input");

@@ -8,7 +8,8 @@
 
 <link rel="stylesheet" type="text/css" href="" />
 
-<title>Login page</title>
+
+<title>Login(git Lab test)</title>
 </head>
 <body>
 
