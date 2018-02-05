@@ -24,7 +24,10 @@ import model.spring.PrimitiveNumberEditor;
 
 
 
-public class ProductController { // 這是一個git Lab test
+public class ProductController {
+
+
+
 	@InitBinder
 	public void initializer(WebDataBinder webDataBinder) {
 		webDataBinder.registerCustomEditor(java.util.Date.class,
