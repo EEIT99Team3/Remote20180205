@@ -7,8 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <link rel="stylesheet" type="text/css" href="" />
-
-<title>Login</title>
+<title>Login(git Lab test)</title>
 </head>
 <body>
 
