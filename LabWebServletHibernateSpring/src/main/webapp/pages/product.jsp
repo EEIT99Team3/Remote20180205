@@ -7,7 +7,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <link rel="stylesheet" type="text/css" href="" />
+
+
+
 <title>Product(git Lab test)</title>
+
 <script type="text/javascript">
 function clearForm() {
 	var inputs = document.getElementsByTagName("input");
