@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
-import java.util.Map;
+import java.util.Map; 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.propertyeditors.CustomDateEditor;
@@ -22,8 +22,9 @@ import model.ProductBean;
 import model.ProductService;
 import model.spring.PrimitiveNumberEditor;
 
-@Controller
-public class ProductController {
+
+
+public class ProductController { // 這是一個git Lab test
 	@InitBinder
 	public void initializer(WebDataBinder webDataBinder) {
 		webDataBinder.registerCustomEditor(java.util.Date.class,
