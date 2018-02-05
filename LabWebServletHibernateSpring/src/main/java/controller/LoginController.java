@@ -18,8 +18,9 @@ import model.CustomerBean;
 import model.CustomerService;
 
 
+
 @Controller
-public class LoginController {
+public class LoginController { // 這是一個git Lab test
 
 
 	@Autowired
