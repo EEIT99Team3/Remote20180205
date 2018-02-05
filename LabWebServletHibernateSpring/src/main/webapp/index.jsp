@@ -8,10 +8,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
-
-
->>>>>>> 7b97b47426cba1b06759007ba0ab1236525604b0
-
 <title>Home(git Lab test 03:54)</title>
 
 </head>
