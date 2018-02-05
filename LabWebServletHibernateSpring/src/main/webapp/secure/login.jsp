@@ -8,11 +8,13 @@
 
 <link rel="stylesheet" type="text/css" href="" />
 
-<title>Login third coomit</title>
+
+<title>Login(git Lab test)</title>
 </head>
 <body>
 
-<h3>Login 222</h3>
+<h3>Login</h3>
+
 
 <form action="<c:url value="/secure/login.controller" />" method="get">
 <table>

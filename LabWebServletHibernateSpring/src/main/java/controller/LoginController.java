@@ -17,8 +17,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import model.CustomerBean;
 import model.CustomerService;
 
+
 @Controller
 public class LoginController {
+
+
 	@Autowired
 	private CustomerService customerService;
 	

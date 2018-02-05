@@ -23,7 +23,11 @@ import model.ProductService;
 import model.spring.PrimitiveNumberEditor;
 
 @Controller
+
 public class ProductController {
+
+
+
 	@InitBinder
 	public void initializer(WebDataBinder webDataBinder) {
 		webDataBinder.registerCustomEditor(java.util.Date.class,
